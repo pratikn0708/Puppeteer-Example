@@ -15,7 +15,6 @@ Give it a spin: https://try-puppeteer.appspot.com/
 Getting Started
 Installation
 To use Puppeteer in your project, run:
-
 npm i puppeteer
 # or "yarn add puppeteer"
 Note: When you install Puppeteer, it downloads a recent version of Chromium (~170MB Mac, ~282MB Linux, ~280MB Win) that is guaranteed to work with the API. To skip the download, see Environment variables.
